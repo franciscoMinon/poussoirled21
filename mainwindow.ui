@@ -13,6 +13,10 @@
   <property name="windowTitle">
    <string>Poussoir Led 21</string>
   </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>Icone256.ico</normaloff>Icone256.ico</iconset>
+  </property>
   <widget class="QWidget" name="centralWidget">
    <widget class="QPushButton" name="pbLed1">
     <property name="geometry">
